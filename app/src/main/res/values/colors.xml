@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardViewBg">#ABC1E4E1</color>
+    <color name="progressBar">#AB79F441</color>
+    <color name="options">#AB60635F</color>
+    <color name="submitBtn">#D81CAA55</color>
+    <color name="onSelected">#D8742BFB</color>
+    <color name="resultBg">#FADCD9</color>
+</resources>
